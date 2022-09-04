@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       title: appTranslationService.text('key_app_name')!,
       darkTheme: AppTheme.darkThemeData,
       theme: AppTheme.lightThemeData,
-      themeMode: ThemeMode.dark,
+      themeMode: ThemeMode.system,
       home: const MyHomePage(),
     );
   }
