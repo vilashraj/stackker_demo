@@ -1,16 +1,15 @@
 # stackker_demo
 
-A new Flutter project.
+This project demonstrates stacking of one view over another in an animated way.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Preview
+## Light Theme
+https://user-images.githubusercontent.com/34715593/188308933-1ab97ab3-53a8-4dce-ab9a-0717ce87a34b.mov
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dark Theme
+
+https://user-images.githubusercontent.com/34715593/188309055-a7630401-855f-41e2-981e-9472b5b096d8.mov
+
